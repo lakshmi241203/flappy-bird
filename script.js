@@ -13,12 +13,12 @@ const playAgainButton = document.getElementById("playAgainButton");
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
-// Background image
+
 const bgImage = new Image();
 bgImage.src = "cloud.jpg";
 let bgX = 0;
 
-// Bird image
+
 const birdImg = new Image();
 birdImg.src = "bird.jpg";
 
